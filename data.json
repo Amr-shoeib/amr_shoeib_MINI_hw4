@@ -1,0 +1,27 @@
+{
+   
+    "mini blue": {
+        "name":" MINI hardtop 4doors",
+        "id":"mini_blue",
+        "lbBG": "mini_copper_blue.jpg",
+        "biopic":"mini-blue.jpeg",
+        "bio": "2023 MINI Hardtop 4 Door is our all new Multitone Roof. Now available in 3 different color gradients, Soul Blue, Alpine White or Chili Red."
+       
+    },
+    "mini black": {
+        "name":" Mini JCW GP",
+        "id":"mini-black",
+        "lbBG": "Mini-Cooper-black.jpeg",
+        "biopic":"mini-black.jpeg",
+        "bio": "The 2022 Mini JCW GP takes 12 seconds to get to 60 mph from a standstill and - seconds for the quarter-mile."
+       
+    },
+    "mini red": {
+        "name":" MINI Hardtop 2 doors ",
+        "id":"mini_red",
+        "lbBG": "mini_copper_red.jpg",
+        "biopic":"mini-red.jpeg",
+        "bio": "The Mini Cooper 2 Door is showing its age, though, as it was last redesigned nine years ago. In that time, more refined, comfortable and convenient hatchback rivals have come and gone."
+       
+    }
+  }
