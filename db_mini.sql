@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 05, 2022 at 04:01 AM
+-- Generation Time: Dec 05, 2022 at 05:20 AM
 -- Server version: 5.7.34
 -- PHP Version: 7.4.21
 
@@ -44,8 +44,7 @@ CREATE TABLE `mini_jcw_gp` (
 --
 
 INSERT INTO `mini_jcw_gp` (`id_mini_jcw`, `seating`, `doors`, `engine`, `color`, `transmission`, `cylinders`, `tires&wheels`, `price`) VALUES
-(1, '5 adults ', '2 doors', '2.0-liter inline-four', 'red, gray, black, blue', '8-speed automatic', 'Inline 4-Cylinder, Horsepower: 228', 'Bridgestone Ecopia EP422 Plus', '$33,750'),
-(2, '', '', '', '', '', '', '', '');
+(1, '5 adults ', '2 doors', '2.0-liter inline-four', 'red, gray, black, blue', '8-speed automatic', 'Inline 4-Cylinder, Horsepower: 228', 'Bridgestone Ecopia EP422 Plus', '$33,750');
 
 -- --------------------------------------------------------
 
